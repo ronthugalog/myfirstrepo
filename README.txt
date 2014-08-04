@@ -10,3 +10,5 @@ git config --global user.name "username"
 git config --global user.email "email address"
 git config --get-all
 > filename
+git init
+nakalimot ko
