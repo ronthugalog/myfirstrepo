@@ -15,3 +15,4 @@ git reset --soft HEAD^
 git commit --amend -m "New Message"
 git reset --hard HEAD^
 git reset --hard HEAD^ ^
+ 
